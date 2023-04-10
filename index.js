@@ -61,4 +61,21 @@ function mainMenu() {
         },
       ],
     },
-   
+  ]).then((res) => {
+    let choice = res.choice;
+    switch (choice) {
+      case "View_employees":
+        viewEmployees(): //will name functions we will call later
+         break;
+      case "View_departments":
+        viewDepartments();
+        break;
+      case "Add_Employee":
+        addEmployee();
+        break;
+      case "Update_employee";
+        updateEmployee();
+        break;
+      case
+    }
+  }
