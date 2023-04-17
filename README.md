@@ -1,6 +1,6 @@
 # Employee Tracker
 
-## DESCRIPTION
+## Description
 
 I wanted to utilize the ongoing new skills I have been developing and create an app that would allow users to use a system to track their employees. I wanted to build this employee tracking system using information store in a mySQL database.
 
